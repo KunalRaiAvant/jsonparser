@@ -1,4 +1,4 @@
-## Generate README.md
+## README.md
 
 To generate the README.md file, follow these steps:
 
